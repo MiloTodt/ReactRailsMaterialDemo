@@ -34,22 +34,18 @@ const tileData = [
   {
     name: "Shoe One",
     price: "12.99",
-    img: "https://i.imgur.com/vbEUrPg.jpg",
   },
   {
     name: "Shoe Two",
     price: "55.99",
-    img: "https://i.imgur.com/vbEUrPg.jpg",
   },
   {
     name: "Shoe Three",
     price: "9.99",
-    img: "https://i.imgur.com/vbEUrPg.jpg",
   },
   {
     name: "Shoe Four",
     price: "14.99",
-    img: "https://i.imgur.com/vbEUrPg.jpg",
   },
 ];
 
