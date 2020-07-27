@@ -52,5 +52,5 @@ npm run
 - App should now be running at http://localhost:3000/
 - A test user has been provided. email: test@test.com password: Testpass
 - Visual polish could use... some work.
-  ![](https://i.imgur.com/Gk57mw2.png)
+  ![](https://i.imgur.com/t62pxhb.png)
   ![](https://i.imgur.com/bJ8hQ1l.png)
