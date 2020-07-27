@@ -1,4 +1,4 @@
-# Prerequisits
+# Prerequisites
 
 ## toolchain- Ruby, Rails, Node
 
